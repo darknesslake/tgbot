@@ -1,0 +1,4 @@
+# .gitignore
+
+/folder_to_ignore/
+!/folder_to_ignore/subfolder/
