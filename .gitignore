@@ -1,4 +1,4 @@
 # .gitignore
 
 /folder_to_ignore/
-!/folder_to_ignore/subfolder
+!/folder_to_ignore/subfolder/test.py
